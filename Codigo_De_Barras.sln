@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codigo_De_Barras", "Codigo_De_Barras\Codigo_De_Barras.csproj", "{785C561C-C645-470F-A7F0-E5F984A99588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785C561C-C645-470F-A7F0-E5F984A99588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785C561C-C645-470F-A7F0-E5F984A99588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785C561C-C645-470F-A7F0-E5F984A99588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785C561C-C645-470F-A7F0-E5F984A99588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801B44B5-B124-4684-828F-4DF3DC3EE663}
+	EndGlobalSection
+EndGlobal
